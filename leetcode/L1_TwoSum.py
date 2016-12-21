@@ -14,7 +14,6 @@ class Solution(object):
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
-        #test 5:26
         """
         ndict = {k: [] for k in nums}
         j=0
