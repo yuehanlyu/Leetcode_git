@@ -1,0 +1,2 @@
+import numpy
+print range(5)
